@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<data>
+    <element>
+        <value>-50</value>
+    </element>
+    <element>
+        <value>0</value>
+    </element>
+    <element>
+        <value>3</value>
+    </element>
+    <element>
+        <value>1</value>
+    </element>
+    <element>
+        <value>-8</value>
+    </element>
+    <element>
+        <value>10</value>
+    </element>
+    <element>
+        <value>25</value>
+    </element>
+    <range>
+        <lowlimit>1</lowlimit>
+        <hilimit>12</hilimit>
+    </range>
+</data>
